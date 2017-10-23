@@ -1,11 +1,12 @@
 # BuffBlock #
-#Auto-removes buffs as soon as they are applied #
-
-#What is BuffBlock?#
+**What is BuffBlock?**
 BuffBlock removes selected beneficial buffs from the context menu as soon as they are applied.
 This also has the added advantage of preventing the Tank from reaching the beneficial buff limit (32).
 
-#Buff Options#  
+**Usage**
+Use /bb in-game to access the context menu to enable/disable beneficial buff blocking.
+
+**Buff Options**  
 - Battle Shout
 - Blessing of Salvation
 - Greater Blessing of Salvation
@@ -15,5 +16,5 @@ This also has the added advantage of preventing the Tank from reaching the benef
 - Arcane Brilliance
 - Blessing of Protection
 
-#Notes#
+**Notes**
 [Greater] Blessing of Salvation: This will be removed upon application only whilst wearing a Shield and in Defensive stance. 
