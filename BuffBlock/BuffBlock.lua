@@ -133,7 +133,7 @@ function BuffBlock_SetOption(num)
 			DEFAULT_CHAT_FRAME:AddMessage("Blocking "..BuffBlockMenuStrings[num]);
 		else
 			BUFF_CONFIG[BB_PlayerName].BLESSINGOFPROTECTION = nil
-			DEFAULT_CHAT_FRAME:AddMessage("Stopped blocking "..BuffBLockMenuStrings[num]);
+			DEFAULT_CHAT_FRAME:AddMessage("Stopped blocking "..BuffBlockMenuStrings[num]);
 		end
 	end
 end
