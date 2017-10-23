@@ -1,4 +1,4 @@
-# BuffBlock
+# BuffBlock #
 #Auto-removes buffs as soon as they are applied #
 
 #What is BuffBlock?#
@@ -15,4 +15,5 @@ This also has the added advantage of preventing the Tank from reaching the benef
 - Arcane Brilliance
 - Blessing of Protection
 
+#Notes#
 [Greater] Blessing of Salvation: This will be removed upon application only whilst wearing a Shield and in Defensive stance. 
